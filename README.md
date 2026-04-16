@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=dylanbassey&show_icons=true&theme=transparent" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=dylanbassey&show_icons=true&theme=transparent&include_all_commits=true" />
   </a>
 </p>
 
