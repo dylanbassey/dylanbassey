@@ -7,10 +7,13 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=dylanbassey&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbassey&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=dylanbassey&show_icons=true&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbassey&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  </a>
 </p>
